@@ -48,17 +48,14 @@ exports.ok = () =>{
 	return` ✅ Oke done ~`
 	}
 exports.welcome = () =>{
-	return`Jangan Lupa Intro Ya~
-⌯ָ   ֙Nama :
-⌯ָ   ֙Umur :
-⌯ָ   ֙Kelamin :
-⌯ָ   ֙Askot :
+	return`Hayy kak~
+SELAMAT DATANG DI JB NADYA STORE
 ╰─ ᝬ _Patuhi Rules Group Ya_  >_<`
-      }
+}
 exports.leave = () =>{
 	return`
 │
-╰─ ᝬ _Balik Lagi Wajib Donasi Ya_ >_<`
+╰─ ᝬ _BYEE SEMOGA HARI MU SENIN TERUS_ >_<`
 }
 exports.menu = (prefix, salam, pushname) =>{
 	return`Hi ${pushname}, selamat ${salam}
